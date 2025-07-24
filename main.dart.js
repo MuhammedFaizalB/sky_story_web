@@ -84041,7 +84041,7 @@ k=J.l6(J.c9(r.h(q,a4),"feels_like"),273.15)
 j=J.l6(J.c9(r.h(q,a4),"temp_min"),273.15)
 i=J.l6(J.c9(r.h(q,a4),"temp_max"),273.15)
 if(a2.b>900){r=A.c6(a5,a3,t.w).w.a.a/3
-r=new A.aZ(r,0,r,0)}else r=new A.aZ(16,16,16,16)
+r=new A.aZ(r,16,r,16)}else r=new A.aZ(16,16,16,16)
 h=$.aAT()
 g=A.aok(new A.akO(o).$0(),B.kK,B.zB)
 f=A.Ic(B.Dp,B.w,a3,a3)
